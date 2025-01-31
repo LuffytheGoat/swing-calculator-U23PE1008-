@@ -1,6 +1,6 @@
 ## Project Contributor
-- Name Goes here. Ahmad Muhammad Idris
-- Martic Number goes Here. U23PE1008
+- Ahmad Muhammad Idris
+- U23PE1008
 
 ## Getting Started
 
